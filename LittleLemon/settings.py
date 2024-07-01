@@ -44,6 +44,7 @@ DJOSER = {
     "USER_ID_FIELD": "username"
 }
 
+
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.AllowAny',
